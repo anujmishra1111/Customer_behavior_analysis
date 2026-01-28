@@ -7,3 +7,17 @@ This project demonstrates an end-to-end data analytics workflow using Python, Po
 The goal is to analyze customer behavior and sales data to uncover patterns, trends, and actionable business insights through data cleaning, exploratory analysis, SQL querying, and interactive dashboards.
 
 This repository is suitable for portfolio, academic, and entry-level data analyst roles.
+
+📂 Dataset
+
+The dataset contains customer and sales-related information such as:
+
+1.Customer details
+
+2.Order data
+
+3.Purchase amounts
+
+4.Dates and order status
+
+Data was initially loaded and explored using Python, then stored and queried in PostgreSQL for analysis.
