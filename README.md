@@ -102,7 +102,8 @@ The Power BI dashboard provides:
 
 -Easy-to-understand visual storytelling
 
-📌 Dashboard File: Included in the repository (.pbix)
+📌 Dashboard File: <img width="1345" height="727" alt="Screenshot 2026-01-28 115406" src="https://github.com/user-attachments/assets/4854ddb5-fa0d-4803-a2bc-546d48795af5" />
+
 -
 
 📈 Results & Insights
