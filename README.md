@@ -1,6 +1,7 @@
 # Customer_behavior_analysis
 A data analysis and visualization project that explores customer behavior and sales patterns using structured datasets, interactive dashboards, and actionable insights using Python, sql and power BI.
 📊 Data Analytics Project: Customer Behavior & Sales Analysis
+
 📌 Overview
 
 This project demonstrates an end-to-end data analytics workflow using Python, PostgreSQL, and Power BI.
@@ -21,3 +22,16 @@ The dataset contains customer and sales-related information such as:
 4.Dates and order status
 
 Data was initially loaded and explored using Python, then stored and queried in PostgreSQL for analysis.
+
+🛠 Tools & Technologies
+
+-Python (Pandas, NumPy, Matplotlib)
+-
+-PostgreSQL (SQL queries)
+-
+-Power BI (Dashboard & visualization)
+-
+-Jupyter Notebook 
+-
+-SQLAlchemy (Python–PostgreSQL connection)
+-
