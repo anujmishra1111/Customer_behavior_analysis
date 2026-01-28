@@ -9,6 +9,8 @@ This project demonstrates an end-to-end data analytics workflow using Python, Po
 The goal is to analyze customer behavior and sales data to uncover patterns, trends, and actionable business insights through data cleaning, exploratory analysis, SQL querying, and interactive dashboards.
 
 This repository is suitable for portfolio, academic, and entry-level data analyst roles.
+<img width="853" height="491" alt="Screenshot 2026-01-28 113721" src="https://github.com/user-attachments/assets/b33bdbf6-358d-431f-92fb-e0e59be2c2cc" />
+
 
 📂 Dataset
 -
@@ -147,4 +149,8 @@ Step 4: Power BI Dashboard
 
 -Combines Python, SQL, and BI tools
 
--Strong portfolio project for Data Analyst / Business Analyst roles
+-Strong portfolio project for Data Analyst / Business Analyst 
+
+👤 About the Author
+-
+Hey, I'm Anuj Mishra, an aspiring Data Analyst with hands-on experience in Python, SQL, PostgreSQL, and Power BI, passionate about transforming raw data into meaningful insights through data cleaning, exploratory analysis, and visualization.
