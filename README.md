@@ -112,3 +112,39 @@ The Power BI dashboard provides:
 -Highlighted order trends and cancellation rates
 
 -Enabled data-driven decision-making through visualization
+
+▶️ How to Run This Project
+-
+Step 1: Clone the Repository
+
+-git clone https://github.com/anujmishra1111/Customer_behavior_analysis.git
+
+Step 2: Run Python Analysis
+
+-Open the Jupyter Notebook 
+
+Install required libraries:
+
+-pip install pandas numpy matplotlib sqlalchemy psycopg2
+
+Step 3: PostgreSQL Setup
+
+-Create a PostgreSQL database
+
+-Run the provided SQL script to create tables
+
+-Update database credentials in the Python file
+
+Step 4: Power BI Dashboard
+
+**Open the .pbix file in Power BI Desktop**
+
+-Refresh data connection if required
+
+🎯 Key Takeaways
+
+-Demonstrates complete data analytics lifecycle
+
+-Combines Python, SQL, and BI tools
+
+-Strong portfolio project for Data Analyst / Business Analyst roles
