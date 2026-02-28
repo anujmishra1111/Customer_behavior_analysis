@@ -40,13 +40,13 @@ Data was initially loaded and explored using Python, then stored and queried in 
 
 🔍 Project Workflow / Steps
 -
-1️⃣ Data Loading
+**1️⃣ Data Loading**
 
 Imported raw dataset into Python using Pandas
 
 Verified data structure, data types, and basic statistics
 
-2️⃣ Exploratory Data Analysis (EDA)
+**2️⃣ Exploratory Data Analysis (EDA)**
 
 Analyzed distributions, trends, and outliers
 
@@ -54,7 +54,7 @@ Identified missing values and inconsistencies
 
 Generated summary statistics and visualizations
 
-3️⃣ Data Cleaning
+**3️⃣ Data Cleaning**
 
 Handled missing values (median/mean replacement where required)
 
@@ -62,7 +62,7 @@ Removed duplicates
 
 Corrected data types (dates, numerical columns)
 
-4️⃣ SQL Analysis (PostgreSQL)
+**4️⃣ SQL Analysis (PostgreSQL)**
 
 Loaded cleaned data into PostgreSQL
 
@@ -76,7 +76,7 @@ Track order status and cancellations
 
 Answer business-focused questions
 
-5️⃣ Power BI Dashboard
+**5️⃣ Power BI Dashboard**
 
 Connected Power BI to PostgreSQL / cleaned dataset
 
@@ -90,7 +90,7 @@ Built an interactive dashboard with:
 
 -Filters for dynamic analysis
 
-📊 Dashboard
+**📊 Dashboard**
 
 The Power BI dashboard provides:
 
@@ -118,11 +118,11 @@ The Power BI dashboard provides:
 
 ▶️ How to Run This Project
 -
-Step 1: Clone the Repository
+**Step 1: Clone the Repository**
 
 -git clone https://github.com/anujmishra1111/Customer_behavior_analysis.git
 
-Step 2: Run Python Analysis
+**Step 2: Run Python Analysis**
 
 -Open the Jupyter Notebook 
 
@@ -130,7 +130,7 @@ Install required libraries:
 
 -pip install pandas numpy matplotlib sqlalchemy psycopg2
 
-Step 3: PostgreSQL Setup
+**Step 3: PostgreSQL Setup**
 
 -Create a PostgreSQL database
 
@@ -138,13 +138,13 @@ Step 3: PostgreSQL Setup
 
 -Update database credentials in the Python file
 
-Step 4: Power BI Dashboard
+**Step 4: Power BI Dashboard**
 
 **Open the .pbix file in Power BI Desktop**
 
 -Refresh data connection if required
 
-🎯 Key Takeaways
+**🎯 Key Takeaways**
 
 -Demonstrates complete data analytics lifecycle
 
